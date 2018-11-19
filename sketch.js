@@ -17,7 +17,7 @@ function setup() {
   
   imgButton = createButton('Capturar');
 	imgButton.mousePressed(function (){
-  													classifier.addImage('Celular'); });
+  													classifier.addImage('Alisson'); });
 
   
   trainButton = createButton('Treinar');
